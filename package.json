@@ -20,7 +20,7 @@
   "dependencies": {
     "@iobroker/adapter-core": "^2.5.1",
     "@sentry/node": "^5.30.0",
-    "@nicerloop/esphome-native-api": "https://github.com/nicerloop/esphome-native-api/",
+    "@bradleywehmeier/esphome-native-api": "https://github.com/bradleywehmeier/esphome-native-api/",
     "nopy": "^0.2.7",
     "tree-kill": "^1.2.2"
   },
